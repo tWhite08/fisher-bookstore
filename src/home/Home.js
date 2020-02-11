@@ -1,6 +1,5 @@
 import React from "react";
 import "./Home.css";
-import lander from "./Home.css";
 
 export default function Home() {
     return (

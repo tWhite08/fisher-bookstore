@@ -3,11 +3,11 @@
     text-align: center;
 }
 
-.lander h2 {
+.lander h3 {
     font-family: "Open Sans", sans-serif;
     font-weight: 600;
 }
 
-.lander b {
+.lander a {
     color: #999;
 }

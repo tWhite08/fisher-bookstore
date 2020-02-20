@@ -2,7 +2,7 @@ import React, { Component } from "react";
 // import logo from './logo.svg';
 import "./App.css";
 
-import { Navbar,Nav,NavItem } from "react-bootstrap";
+import { Navbar, Nav, NavItem } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import Routes from "./Routes.js";
 
@@ -19,7 +19,7 @@ export default class App extends Component {
           <Navbar.Collapse className="justify-content-end">
             <Nav>
               <NavItem>
-                <Nav.Link href="/Books">Books</Nav.Link
+                <Nav.Link href="/Books">Books</Nav.Link>
                 <Nav.Link href="/Authors">Authors</Nav.Link>
               </NavItem>
             </Nav>
